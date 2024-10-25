@@ -28,8 +28,8 @@ A simple network sniffer built in Python using the Scapy library. This project c
 - Prints detailed information about captured packets, including HTTP requests and DNS queries.
 
 ## Requirements
-- Python 3.x
-- Scapy library
+- pip install python
+- pip install scapy
 
 ## Installation
 1. Clone the repository:
